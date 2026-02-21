@@ -1,0 +1,396 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "metro": "Metro",
+    "track": "Track",
+    "chat": "Chat",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Roadचल",
+    "subtitle": "Your Last Mile to Public Transit",
+    "description": "Effortless rides from your doorstep to nearest Pune Metro station",
+    "getStarted": "Get Started",
+    "login": "Login",
+    "learnMore": "Learn More"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to seamless metro connectivity",
+    "stepLabel": "Step",
+    "step1": {
+      "title": "Book Your Ride",
+      "desc": "Enter your location and nearest metro station"
+    },
+    "step2": {
+      "title": "Get Picked Up",
+      "desc": "Our driver arrives at your doorstep"
+    },
+    "step3": {
+      "title": "Reach Metro",
+      "desc": "Dropped off right at the metro entrance"
+    }
+  },
+  "benefits": {
+    "title": "Why Choose Roadचल?",
+    "subtitle": "Built for modern commuters who value time and convenience",
+    "feature1": {
+      "title": "Metro Integration",
+      "desc": "Seamless connection to all Pune Metro stations with real-time updates"
+    },
+    "feature2": {
+      "title": "Live Tracking",
+      "desc": "Track your ride in real-time from pickup to metro station drop-off"
+    },
+    "feature3": {
+      "title": "Quick Booking",
+      "desc": "Book your ride in seconds with our intuitive interface"
+    },
+    "feature4": {
+      "title": "Affordable Pricing",
+      "desc": "Transparent pricing with no hidden charges or surge pricing"
+    },
+    "feature5": {
+      "title": "Smart Routes",
+      "desc": "AI-powered route optimization for the fastest journey"
+    },
+    "feature6": {
+      "title": "Safe & Secure",
+      "desc": "Verified drivers and 24/7 customer support for your safety"
+    }
+  },
+  "experience": {
+    "title": "Experience the App",
+    "subtitle": "Sleek, intuitive, and designed for speed",
+    "tracking": "Tracking",
+    "mapView": "Map View",
+    "dashboard": "Dashboard"
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Join thousands of happy commuters",
+    "user1": {
+      "role": "Daily Commuter",
+      "text": "Roadचल has made my daily commute so much easier! I can now seamlessly connect from my home to Pune Metro stations."
+    },
+    "user2": {
+      "role": "Software Engineer",
+      "text": "The tracking feature is amazing! I always know exactly when to leave home to catch my metro on time."
+    },
+    "user3": {
+      "role": "Student",
+      "text": "Affordable and reliable! Perfect solution for students like me who depend on public transport daily."
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Commute?",
+    "subtitle": "Join Roadचल today and experience hassle-free metro connectivity",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "description": "Last-mile connectivity from your doorstep to Pune Metro stations",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "metroDetails": "Metro Details",
+    "trackRide": "Track Ride",
+    "dashboard": "Dashboard",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "connectWithUs": "Connect With Us",
+    "rightsReserved": "All rights reserved.",
+    "poweredByPuneMetro": "Powered by Pune Metro"
+  },
+  "chatbot": {
+    "welcome": "Hello! I'm your Roadचल assistant. How can I help you today?",
+    "fallbackReply": "I'm sorry, I couldn't process that.",
+    "connectionError": "Sorry, I'm having trouble connecting to the server. Please try again later.",
+    "online": "Online",
+    "typeMessage": "Type your message..."
+  },
+  "chatbotPage": {
+    "titlePrefix": "Chat with",
+    "subtitle": "Got questions? Our AI assistant is here to help you navigate Pune's metro connectivity."
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to access your account",
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "orContinueWith": "Or continue with",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "loginFailed": "Login failed",
+      "general": "An error occurred during login"
+    }
+  },
+  "register": {
+    "title": "Join Roadचल",
+    "subtitle": "Create your account and start your journey",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "mobileNumber": "Mobile Number",
+    "mobilePlaceholder": "9876543210",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "acceptPrefix": "I accept the",
+    "termsAndConditions": "Terms and Conditions",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "successMessage": "Registration successful! Please check your email for confirmation (if required).",
+    "errors": {
+      "fullNameRequired": "Full name is required",
+      "emailRequired": "Email is required",
+      "mobileRequired": "Valid 10-digit mobile number required",
+      "passwordLength": "Password must be at least 6 characters",
+      "passwordMismatch": "Passwords do not match",
+      "acceptTerms": "Please accept terms and conditions",
+      "registrationFailed": "Registration failed",
+      "general": "An error occurred during registration"
+    }
+  },
+  "tracking": {
+    "title": "Track Your Ride",
+    "subtitle": "Real-time tracking from pickup to metro station",
+    "interactiveMap": "Interactive Map",
+    "liveTrackingVisualization": "Live tracking visualization",
+    "tripStatus": "Trip Status",
+    "statusLabel": "Status:",
+    "etaLabel": "ETA:",
+    "distanceLabel": "Distance:",
+    "routeDetails": "Route Details",
+    "pickup": "Pickup",
+    "destination": "Destination",
+    "metroStationSuffix": "Metro Station",
+    "driverDetails": "Driver Details",
+    "rating": "Rating",
+    "vehicle": "Vehicle",
+    "experience": "Experience",
+    "years": "years",
+    "nearbyStations": "Nearby Stations",
+    "line": "Line"
+  },
+  "help": {
+    "titlePrefix": "How can we",
+    "titleHighlight": "help?",
+    "searchPlaceholder": "Search for articles, guides...",
+    "faqTitle": "Frequently Asked Questions",
+    "categories": {
+      "booking": {
+        "title": "Booking Rides",
+        "desc": "Learn how to book and manage your metro connections."
+      },
+      "payments": {
+        "title": "Payments & Pricing",
+        "desc": "Information about fares, passes, and payment methods."
+      },
+      "safety": {
+        "title": "Safety & Privacy",
+        "desc": "Our commitment to your safety and data protection."
+      },
+      "general": {
+        "title": "General Info",
+        "desc": "Everything else you need to know about Roadचल."
+      }
+    },
+    "faqs": {
+      "q1": {
+        "question": "How do I book a ride to the nearest metro station?",
+        "answer": "Simply open the Roadचल app, enter your destination metro station, and we'll match you with the nearest available driver to pick you up from your doorstep."
+      },
+      "q2": {
+        "question": "What are the operating hours?",
+        "answer": "Roadचल operates in sync with the Pune Metro timings, typically from 6:00 AM to 10:00 PM, ensuring you always have a last-mile connection for your metro journey."
+      },
+      "q3": {
+        "question": "How are the fares calculated?",
+        "answer": "Fares are calculated based on the distance between your pickup location and the metro station. We offer transparent, flat-rate pricing to make your commute predictable."
+      },
+      "q4": {
+        "question": "Can I use my Pune Metro pass with Roadचल?",
+        "answer": "We are currently working on a unified ticketing system. For now, Roadचल rides are paid separately, but stay tuned for our 'One City, One Pass' integration!"
+      }
+    }
+  },
+  "contact": {
+    "titlePrefix": "Get in",
+    "titleHighlight": "Touch",
+    "subtitle": "Have questions about our service? We're here to help you make your daily commute effortless.",
+    "emailUs": "Email Us",
+    "callUs": "Call Us",
+    "visitUs": "Visit Us",
+    "messageSent": "Message Sent!",
+    "thankYou": "Thank you for reaching out. We'll get back to you shortly.",
+    "sendAnother": "Send another message",
+    "yourName": "Your Name",
+    "namePlaceholder": "John Doe",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "How can we help?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us more about your inquiry...",
+    "sendMessage": "Send Message"
+  },
+  "dashboard": {
+    "welcomeBack": "Welcome back, Priya!",
+    "overview": "Here's your commute overview",
+    "startNewRide": "Start New Ride",
+    "bookRide": "Book your ride to nearest metro",
+    "trackActiveRide": "Track Active Ride",
+    "viewLiveStatus": "View live ride status",
+    "totalRides": "Total Rides",
+    "distance": "Distance",
+    "timeSaved": "Time Saved",
+    "moneySaved": "Money Saved",
+    "recentRides": "Recent Rides",
+    "viewAllRides": "View All Rides",
+    "upcomingRides": "Upcoming Rides",
+    "tomorrowRide": "Tomorrow, 9:00 AM",
+    "mondayRide": "Mon, 18:30",
+    "monthlyPass": "Monthly Pass",
+    "ridesLeft": "Rides Left:",
+    "expires": "Expires:",
+    "renewPass": "Renew Pass",
+    "analytics": "Your Analytics",
+    "ecoScore": "Eco Score",
+    "onTimeRate": "On-Time Rate",
+    "co2Saved": "You've saved 42 kg CO₂ this month!"
+  },
+  "landing": {
+    "hero": {
+      "titleLine1": "Revolutionizing",
+      "titleLine2": "Last-Mile Connectivity",
+      "description": "Bridging the gap between your home and Pune Metro with smart, affordable, and reliable transportation",
+      "downloadApp": "Download the App"
+    },
+    "features": {
+      "title": "Comprehensive Features",
+      "subtitle": "Everything you need for a seamless commuting experience"
+    },
+    "integration": {
+      "title": "Seamless Pune Metro Integration",
+      "description": "Roadचल connects you to all major Pune Metro stations including Vanaz, Anand Nagar, Deccan Gymkhana, Civil Court, and Swargate. We optimize routes to ensure you never miss your metro.",
+      "mapTitle": "Metro Route Map",
+      "mapSubtitle": "Interactive station coverage",
+      "points": {
+        "p1": "Real-time metro schedule integration",
+        "p2": "Station-specific pickup and drop points",
+        "p3": "Coordinated timing to match metro arrivals",
+        "p4": "Coverage across all metro lines"
+      }
+    },
+    "modern": {
+      "title": "Built for Modern Commuters",
+      "subtitle": "Intuitive design meets powerful functionality",
+      "cards": {
+        "liveTracking": {
+          "title": "Live Tracking",
+          "desc": "Track your ride in real-time"
+        },
+        "easyPayments": {
+          "title": "Easy Payments",
+          "desc": "Multiple payment options"
+        },
+        "tripAnalytics": {
+          "title": "Trip Analytics",
+          "desc": "Insights on your journeys"
+        }
+      }
+    }
+  },
+  "metroDetails": {
+    "titlePrefix": "Pune Metro",
+    "titleHighlight": "Connectivity",
+    "subtitle": "Explore the metro stations we connect to. Roadचल ensures you have a reliable last-mile connection for every journey.",
+    "purpleLine": "Purple Line",
+    "purpleLineRoute": "PCMC to Swargate",
+    "stationSuffix": "Pune Metro Station",
+    "lat": "Lat",
+    "lng": "Lng",
+    "routeMapTitle": "Interactive Route Map",
+    "comingSoonTitle": "Coming Soon: Live Route Optimization",
+    "comingSoonSubtitle": "Personalized shuttle tracking integrated with metro schedules.",
+    "info": {
+      "operatingHours": {
+        "title": "Operating Hours",
+        "details": "6:00 AM - 10:00 PM"
+      },
+      "fareStructure": {
+        "title": "Fare Structure",
+        "details": "₹10 - ₹35 (Based on distance)"
+      },
+      "frequency": {
+        "title": "Frequency",
+        "details": "Every 10-15 minutes"
+      }
+    }
+  },
+  "privacy": {
+    "titlePrefix": "Privacy",
+    "titleHighlight": "Policy",
+    "lastUpdated": "Last updated: February 18, 2026",
+    "contactPrefix": "If you have any questions about this Privacy Policy, please contact us at",
+    "sections": {
+      "collect": {
+        "title": "Information We Collect",
+        "content": "We collect information you provide directly to us, such as when you create an account, book a ride, or contact our support team. This may include your name, email address, phone number, and location data."
+      },
+      "use": {
+        "title": "How We Use Your Information",
+        "content": "We use the information we collect to provide, maintain, and improve our services, including to process your bookings, send you updates about your rides, and respond to your inquiries."
+      },
+      "security": {
+        "title": "Data Security",
+        "content": "We take reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, update, or delete your personal information. If you have any questions or concerns about how we handle your data, please contact us."
+      }
+    }
+  },
+  "terms": {
+    "titlePrefix": "Terms of",
+    "titleHighlight": "Service",
+    "lastUpdated": "Last updated: February 18, 2026",
+    "contactPrefix": "Questions about our Terms? Reach out at",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By accessing and using Roadचल, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services."
+      },
+      "responsibilities": {
+        "title": "User Responsibilities",
+        "content": "Users are responsible for maintaining the confidentiality of their account information and for all activities that occur under their account. You agree to provide accurate and complete information when using our platform."
+      },
+      "availability": {
+        "title": "Service Availability",
+        "content": "While we strive to provide 24/7 service, we do not guarantee uninterrupted access to Roadचल. We reserve the right to modify, suspend, or discontinue any part of the service at any time without notice."
+      },
+      "prohibited": {
+        "title": "Prohibited Conduct",
+        "content": "Users agree not to use the service for any unlawful purpose or in any way that could damage, disable, or impair the platform. Harassment of drivers or other users is strictly prohibited."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "Roadचल shall not be liable for any indirect, incidental, special, or consequential damages resulting from the use or inability to use our services."
+      }
+    }
+  }
+}
